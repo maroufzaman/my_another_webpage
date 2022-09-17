@@ -4,7 +4,7 @@ var cont = document.getElementById("text");
 
 document.getElementById("button1").addEventListener("click", function() {
     alert("Hello World!");
-    cont.style.fontSize = 24;
+    cont.style.fontSize = "x-large";
   });
 
   document.getElementById("button2").addEventListener("click", function() {
